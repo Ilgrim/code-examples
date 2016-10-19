@@ -1,5 +1,5 @@
 # Code Examples
-Some examples one how to use the OneAll API.
+Some examples one how to use the OneAll API.<br /> <br /> 
 The API documentation is available here:<br /> 
 http://docs.oneall.com/api/
 
