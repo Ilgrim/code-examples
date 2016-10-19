@@ -1,9 +1,9 @@
 # Code Examples
 Some examples one how to use the OneAll API.
-The API documentation is available here:
+The API documentation is available here:<br /> 
 http://docs.oneall.com/api/
 
-Please also have a look at our SDKs:
+Please also have a look at our SDKs:<br /> 
 https://github.com/oneall?utf8=%E2%9C%93&query=sdk
 
 ## Important
