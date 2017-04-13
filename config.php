@@ -17,9 +17,9 @@
  */
 
 // Please enter your OneAll Site settings here
-define ('SITE_SUBDOMAIN', 'loudvoice-test');			// Example: mysubdomain
-define ('SITE_PUBLIC_KEY', '508c705a-c7e6-405d-b710-415ba764cb56');			// Example: b842444d-295c-472f-8aed-b757c4ff678f
-define ('SITE_PRIVATE_KEY', 'bfc4d555-e427-4157-8242-c8f0a0ab50b9'); 		// Example: e27d4bb2-a4fb-4c3a-90d9-e5b20368cd61
+define ('SITE_SUBDOMAIN', '');			// Example: mysubdomain
+define ('SITE_PUBLIC_KEY', '');			// Example: b842444d-295c-472f-8aed-b757c4ff678f
+define ('SITE_PRIVATE_KEY', ''); 		// Example: e27d4bb2-a4fb-4c3a-90d9-e5b20368cd61
 
 if (strlen (SITE_SUBDOMAIN) == 0 || strlen (SITE_PUBLIC_KEY) == 0 || strlen (SITE_PRIVATE_KEY) == 0)
 {
